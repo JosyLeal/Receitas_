@@ -1,0 +1,32 @@
+﻿
+
+#estilo1{
+    color: #292724;
+    background-color: #e5c08f;
+}
+
+#estilo2{text-align:center;
+}
+
+#estilo3{background:gray;
+}
+
+.fundo
+{
+background-color:#e5c08f";
+}
+
+#menu{
+    background-color: grid;
+}
+
+.marcador_container{
+    background-color: white;
+    border: solid 1px;
+
+}
+
+.marcador_home{
+    background-color: #e5c08f;
+    border: solid 2px;
+}
